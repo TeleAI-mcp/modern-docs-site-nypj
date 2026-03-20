@@ -1,2 +1,3 @@
-# modern-docs-site-nypj
-Automated issue comment bot repository
+# Modern Docs Site Nypj
+
+Automated issue comment bot repository.
